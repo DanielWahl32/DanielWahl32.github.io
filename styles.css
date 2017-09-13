@@ -8,11 +8,11 @@ body {
 body {
     text-align: center;
     font-family: "Comic Sans MS";
-background-color: pink;
+background-color: #FFDF7F;
 }
 body,
 body a {
-    color: red;
+    color: pink;
     }
 
 .tagline {
@@ -26,3 +26,7 @@ body a {
 .flat-list.buttons li a {
     color: brown;
     }
+    body {
+        background-image: url(" http://purelyfacts.com/pics/items/animals/Anteater.jpg");
+} 
+ 

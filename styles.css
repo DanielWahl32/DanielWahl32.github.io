@@ -3,32 +3,23 @@ img {
 }
 body {
     text-align: right;
-    font-family: "Comic Sans MS";
+    font-family: "Arial";
 }
 body {
     text-align: center;
-    font-family: "Comic Sans MS";
+    font-family: "Aria";
 background-color: #FFDF7F;
 }
 body,
-body a {
-    color: 	#7CFC00;
-    }
+body a
 
 .tagline {
-    color: magenta;
-    }
-
-.tagline a {
     color: green;
     }
 
 .flat-list.buttons li a {
     color: brown;
     }
-    body {
-        background-image: url(" http://purelyfacts.com/pics/items/animals/Anteater.jpg");
-    } 
     .image {
     position: absolute;
     top: 60%;

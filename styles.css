@@ -4,15 +4,20 @@ img {
 @font-face {
     font-family: fixedsys;
     src: url('fixedsys'),
-    url('fixedsys.eot');
+    url('fixedsys.ttf');
 }
 
 body {
-    text-align: right;
-    font-family: "fixedsysx";
-}
-body {
-    text-align: center;
+    text-align: left;
     font-family: "fixedsys";
-background-color: #FFDF7F;
+    color: white;
+background-color: black;
+
+}
+a:link, a:visited {
+    color: white;
+    padding: 14px 25px;
+    text-align: left; 
+    text-decoration: underline;
+    display: inline-block;
 }

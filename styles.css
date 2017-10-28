@@ -10,14 +10,22 @@ img {
 body {
     text-align: left;
     font-family: "fixedsys";
-    color: white;
+    color: #39a63b;
 background-color: black;
 
 }
+
+.main1 {
+    text-align: left;
+    font-family: "fixedsys";
+    color: white;
+background-color: black;
+}
+
 a:link, a:visited {
     color: white;
     padding: 14px 25px;
-    text-align: left; 
+    text-align: center; 
     text-decoration: underline;
     display: inline-block;
 }
